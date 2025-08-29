@@ -41,7 +41,5 @@ Here’s a demo of the gesture control:
 ![Gesture Demo](demo.gif)
 
 
-<video width="600" controls>
-  <source src="demo.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+### Full Demo (MP4)
+[Click here to watch the full demo](demo.mp4)
