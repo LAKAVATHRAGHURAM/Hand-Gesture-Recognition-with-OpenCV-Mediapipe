@@ -29,8 +29,8 @@ Fingertip positions are compared with their corresponding knuckles to decide whe
 ## 📌 Setup Instructions
 Clone the repository and install dependencies:
 ```bash
-git clone https://github.com/YOURUSERNAME/hand-gesture-recognition.git
-cd hand-gesture-recognition
+git clone https://github.com/LAKAVATHRAGHURAM/Hand-Gesture-Recognition-with-OpenCV-Mediapipe.git
+cd Hand-Gesture-Recognition-with-OpenCV-Mediapipe
 pip install -r requirements.txt
 python app.py
 ```
