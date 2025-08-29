@@ -33,7 +33,7 @@ git clone https://github.com/YOURUSERNAME/hand-gesture-recognition.git
 cd hand-gesture-recognition
 pip install -r requirements.txt
 python app.py
-
+```
 # Demo
 
 Here’s a demo of the gesture control:
