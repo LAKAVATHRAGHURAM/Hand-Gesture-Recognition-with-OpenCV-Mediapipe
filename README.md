@@ -1,6 +1,6 @@
 # Real-Time Hand Gesture Recognition
 
-👤 Name: Your Full Name  
+👤 Name: LAKAVATH RAGHURAM 
 
 ## 📌 Objective
 A Python application that uses a webcam to recognize static hand gestures in **real-time**.  
